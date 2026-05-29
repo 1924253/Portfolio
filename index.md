@@ -1,1 +1,3 @@
-Hello I am Richard
+# **RICHARD'S PORTFOLIO**
+***
+*Hello I am Richard*
